@@ -1,21 +1,12 @@
 # Robot
 
-## 语音识别
+## 简介
 
-识别语音，将语音转变为文字
+机器人是每一个男孩子的梦想 :-)
 
-### 开发板
-1. [ROC-RK3308-CC](http://www.t-firefly.com/product/rocrk3308cc.html)
+## 资源
 
-## NPL
-
-识别和理解自然语言
-
-## 语音合成
-
-朗读文字
-
-### 参考
-
-1. [Lyrebird](https://lyrebird.ai/)
+1. [用树莓派DIY六足行走的机器人](http://shumeipai.nxez.com/2017/08/07/hexapod-walker-raspberry-pi.html)
+2. [We create the most realistic artificial voices in the world](https://lyrebird.ai/)
+3. [Raspberry Pi](https://www.raspberrypi.org/)
 
